@@ -277,7 +277,7 @@ abstract class Character
    
     public int health;
     public string name;
-    public int baseAttackPower = 100;
+    public int baseAttackPower = 10;
 
     public abstract int TotalAttackPower(int bonus);
 }
