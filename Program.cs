@@ -97,6 +97,10 @@ class Game
                                     Console.WriteLine("You have found a hammer!");
                                     weapon.hammerOwned = true;
                                 }
+                                else
+                                {
+                                    Console.WriteLine("Weapon");
+                                }
                             }
 
 

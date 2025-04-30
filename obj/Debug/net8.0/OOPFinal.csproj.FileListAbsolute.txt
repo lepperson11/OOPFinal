@@ -12,3 +12,4 @@
 /Users/lukeepperson/RiderProjects/TTECH/OOPFinal/obj/Debug/net8.0/OOPFinal.pdb
 /Users/lukeepperson/RiderProjects/TTECH/OOPFinal/obj/Debug/net8.0/OOPFinal.genruntimeconfig.cache
 /Users/lukeepperson/RiderProjects/TTECH/OOPFinal/obj/Debug/net8.0/ref/OOPFinal.dll
+/Users/lukeepperson/RiderProjects/TTECH/OOPFinal/obj/Debug/net8.0/OOPFinal.sourcelink.json
