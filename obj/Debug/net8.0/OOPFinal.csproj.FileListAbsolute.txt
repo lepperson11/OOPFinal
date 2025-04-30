@@ -1,0 +1,14 @@
+/Users/lukeepperson/RiderProjects/TTECH/OOPFinal/bin/Debug/net8.0/OOPFinal
+/Users/lukeepperson/RiderProjects/TTECH/OOPFinal/bin/Debug/net8.0/OOPFinal.deps.json
+/Users/lukeepperson/RiderProjects/TTECH/OOPFinal/bin/Debug/net8.0/OOPFinal.runtimeconfig.json
+/Users/lukeepperson/RiderProjects/TTECH/OOPFinal/bin/Debug/net8.0/OOPFinal.dll
+/Users/lukeepperson/RiderProjects/TTECH/OOPFinal/bin/Debug/net8.0/OOPFinal.pdb
+/Users/lukeepperson/RiderProjects/TTECH/OOPFinal/obj/Debug/net8.0/OOPFinal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukeepperson/RiderProjects/TTECH/OOPFinal/obj/Debug/net8.0/OOPFinal.AssemblyInfoInputs.cache
+/Users/lukeepperson/RiderProjects/TTECH/OOPFinal/obj/Debug/net8.0/OOPFinal.AssemblyInfo.cs
+/Users/lukeepperson/RiderProjects/TTECH/OOPFinal/obj/Debug/net8.0/OOPFinal.csproj.CoreCompileInputs.cache
+/Users/lukeepperson/RiderProjects/TTECH/OOPFinal/obj/Debug/net8.0/OOPFinal.dll
+/Users/lukeepperson/RiderProjects/TTECH/OOPFinal/obj/Debug/net8.0/refint/OOPFinal.dll
+/Users/lukeepperson/RiderProjects/TTECH/OOPFinal/obj/Debug/net8.0/OOPFinal.pdb
+/Users/lukeepperson/RiderProjects/TTECH/OOPFinal/obj/Debug/net8.0/OOPFinal.genruntimeconfig.cache
+/Users/lukeepperson/RiderProjects/TTECH/OOPFinal/obj/Debug/net8.0/ref/OOPFinal.dll
