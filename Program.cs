@@ -76,30 +76,31 @@ class Game
                             monsterHealth -= swingDamage;
                             if (monsterHealth <= 0)
                             {
+                                int randomWeapon = rnd.RandomWeapon(); 
                                 Console.WriteLine("Congratulations the monster has been defeated!!!");
-                                if (rnd.RandomWeapon() == "dagger")
+                                if (randomWeapon == 1)
                                 {
                                     Console.WriteLine("You have found a dagger!");
                                     weapon.daggerOwned = true;
                                 }
-                                else if (rnd.RandomWeapon() == "sword")
+                                else if (randomWeapon == 2)
                                 {
                                     Console.WriteLine("You have found a sword!");
                                     weapon.swordOwned = true;
                                 }
-                                else if (rnd.RandomWeapon() == "axe")
+                                else if (randomWeapon == 3)
                                 {
                                     Console.WriteLine("You have found a axe!");
                                     weapon.axeOwned = true;
                                 }
-                                else if (rnd.RandomWeapon() == "hammer")
+                                else if (randomWeapon == 4)
                                 {
                                     Console.WriteLine("You have found a hammer!");
                                     weapon.hammerOwned = true;
                                 }
                                 else
                                 {
-                                    Console.WriteLine("Weapon");
+                                    Console.WriteLine("not working " + randomWeapon);
                                 }
                             }
 
@@ -247,21 +248,26 @@ class RandomNumbers
         }
     }
 
-    public string RandomWeapon()
+    public int RandomWeapon()
     {
         int weaponNumber = rnd.Next(1, 5);
+        string weaponType;
         switch (weaponNumber)
         {
             case 1:
-                return "dagger";
+                
+                return 1;
             case 2:
-                return "sword";
+                
+                return 2;
             case 3:
-                return "axe";
+                
+                return 3;
             case 4:
-                return "hammer";
+               
+                return 4;
             default:
-                return "weapon";
+                return 5;
         }
     }
 }
@@ -271,7 +277,7 @@ abstract class Character
    
     public int health;
     public string name;
-    public int baseAttackPower = 10;
+    public int baseAttackPower = 100;
 
     public abstract int TotalAttackPower(int bonus);
 }
